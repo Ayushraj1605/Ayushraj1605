@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I am Ayush Raj and welcome to my GitHub profile. I am currently in my 3rd year of college and I love to work on new projects, develop new web-apps, and learn as I proceed.
+Hi, I'm Ayush Raj. Welcome to my GitHub profile! Currently in my third year of college, I'm passionate about creating innovative projects and developing web applications. I'm constantly learning and growing, always eager to embrace new challenges and opportunities in the tech world.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
